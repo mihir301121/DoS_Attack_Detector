@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# DoS_Attack Python Tool Version 2.0
+# DoS_Attack Tool 
 
 '''
 this tool will help you to detect any Deauth attacks 
